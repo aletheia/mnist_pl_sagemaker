@@ -1,0 +1,1 @@
+# MNIST on SageMaker with PyTorch Lightning
