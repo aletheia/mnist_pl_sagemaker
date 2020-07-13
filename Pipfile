@@ -9,6 +9,8 @@ verify_ssl = true
 sagemaker = "*"
 torch = "*"
 pytorch-lightning = "*"
+boto3 = "*"
+botocore = "*"
 
 [requires]
 python_version = "3.7"
